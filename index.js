@@ -1,10 +1,13 @@
 // IMPORT CLASSES HERE
 
+const {Media} = require('./classes/Media')
 
 
+const {Book}= require('./classes/Book')
 
+const {Music} = require('./classes/Music')
 
-
+const {Movie} = require('./classes/Movie')
 
 // DO NOT EDIT BELOW THIS LINE
 try {

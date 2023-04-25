@@ -20,7 +20,7 @@ npm test
 
 ## `Media` Class
 
-1. In `Media.js`, create a `Media` class. The `Media` class should have the following properties and methods:
+1. In `Media.js`, create a `Media` class. The `Media` class should have the following properties and methods: 
     - `title`: the title of the media (string)
     - `year`: the year the media was produced (number)
     - `genre`: the genre of the media (string)
@@ -31,7 +31,7 @@ npm test
 
 ### Examples
 
-```javascript
+```javascriptt
 const book = new Media('The Catcher in the Rye', 1951, 'Fiction');
 Media.totalMediaCount; // 1
 const music = new Media('Abbey Road', 1969, 'Rock');
